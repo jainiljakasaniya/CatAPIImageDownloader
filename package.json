@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "fs": "^0.0.1-security",
-    "request-promise": "^4.2.6"
+    "axios": "^1.7.2",
+    "fs": "^0.0.1-security"
   }
 }
